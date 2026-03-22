@@ -91,7 +91,7 @@ Prebuilt executables for Windows, Linux and macOS are available in the [Releases
 This project is licensed under the [MIT License](LICENSE).
 
 
-Copyright (c) 2025 Cypher Grignote
+Copyright (c) 2025 Samuel Flores
 
 
 
